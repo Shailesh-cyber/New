@@ -1,4 +1,4 @@
-# Playstore App Data Scrapper
+# Playstore App Data Scraper
 
 # About
 Python script to scrap playstore apps app_name, genre, 
